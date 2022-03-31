@@ -4,7 +4,7 @@ This is an interactive website built with using HTML, CSS, Javascript, Document 
 
 ### Links
 
-- [Live Site URL](https://huseyinsenkaya.github.io/interactive-rating-component/)
+- [Live Site URL](https://huseyinsenkaya.github.io/JavaScript30/01_JavaScript-Drum-Kit/)
 
 ### What I learned
 
